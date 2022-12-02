@@ -1,0 +1,1 @@
+### Start deno server `deno run --allow-read --watch [filename here]`
